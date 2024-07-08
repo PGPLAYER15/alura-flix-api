@@ -26,15 +26,8 @@
       "photo": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
       "link": "https://www.youtube.com/embed/rpvrLaBQwgg?si=V1VLVFRuKgOI_y6-",
       "description": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?"
-    },{
-      "id": "11",
-      "title": "Cuándo usar let, var y const?",
-      "category": "FRONT END",
-      "categoryColor": "#6BD1FF",
-      "photo": "https://i.ytimg.com/vi/PztCEdIJITY/maxresdefault.jpg",
-      "link": "https://www.youtube.com/embed/PztCEdIJITY?si=hfEWd-LVzlUvP_qT",
-      "description": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript."
-    },{
+    },
+    {
       "id": "5",
       "title": "Spring Framework. ¿Qué es ?",
       "category": "BACK END",
